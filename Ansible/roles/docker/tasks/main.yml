@@ -4,7 +4,7 @@
   docker_image:
     name: devops
     build:
-     path: /var/lib/jenkins/workspace/pipeline_my_app_chourabi
+     path: /var/lib/jenkins/workspace/Myapp
      pull: no
     source: build 
     state: present

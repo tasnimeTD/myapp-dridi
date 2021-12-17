@@ -13,7 +13,7 @@ agent any
 checkout([$class: 'GitSCM', branches: [[name: '*/master']],
 
 userRemoteConfigs: [[
-url: 'https://github.com/dhafer999/myapp-dhafer.git' ]]])
+url: 'https://github.com/tasnimeTD/myapp-dridi' ]]])
 
 
 
